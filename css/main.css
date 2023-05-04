@@ -1,9 +1,18 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 html {
-    background-color: lightgray;
+	background-color: lightgray;
+	font-family: 'Epilogue', sans-serif;
+	font-size: 0.95em;
+	line-height: 1.5em;
+}
+
+html {
+    background-color:darkred;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -14,7 +23,9 @@ html {
     background: #ff0;
 }
 
-h1 {
+h1.pager-header {
+     font-family: 'Poppins', sans-serif;
+    
     font-weight: normal;
     margin: auto;
     background: #fff;
