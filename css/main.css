@@ -5,15 +5,15 @@
 
 
 html {
-	background-color: lightgray;
+	background-color:lightgray;
 	font-family: 'Epilogue', sans-serif;
 	font-size: 0.95em;
 	line-height: 1.5em;
 }
 
 html {
-    background-color:darkred;
-    font-family: 'Quicksand', sans-serif;
+    background-color:burlywood;
+    font-family: 'Quicksand', sans-serif bold;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -24,7 +24,7 @@ html {
 }
 
 h1.pager-header {
-     font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif bold; 
     
     font-weight: normal;
     margin: auto;
@@ -54,7 +54,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color:black ;
     text-decoration: none;
 }
 
